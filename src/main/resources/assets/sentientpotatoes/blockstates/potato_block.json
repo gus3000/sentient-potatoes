@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sentientpotatoes:block/potato_block"
+    }
+  }
+}
